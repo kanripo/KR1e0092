@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左傳杜林合注
-#+DATE: 2015-09-23 09:40:23
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:16:30.665185
+#+PROPERTY: ID KR1e0092
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十八
 <pb:KR1e0092_WYG_038-1a>¶
 欽定四庫全書¶
 　左傳杜林合注卷三十八　明　王道焜¶
@@ -470,4 +472,3 @@
 何且泣(杜泣以/信其言)平子懼先歸恵伯待禮(待見遣/之禮)¶
 　¶
 　左傳杜林合注三十八¶
-
